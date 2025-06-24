@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keks137&theme=dark&langs_count=20&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keks137&theme=dark&langs_count=20&layout=compact&hide=cmake)
 
 
 
